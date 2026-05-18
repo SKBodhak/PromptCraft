@@ -10,5 +10,12 @@
       "iconSvg": "<svg></svg>"
     }
   ],
-  "actionButtons": {}
+  "actionButtons": {},
+  "features": {
+    "showSettings": false,
+    "showLegal": false,
+    "showDevProfile": false,
+    "enableDirectMessage": false,
+    "enableContactLinks": false
+  }
 }

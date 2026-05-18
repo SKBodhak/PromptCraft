@@ -17,5 +17,15 @@
     "password": "dfff",
     "token": "NOVA-TOKEN-RC2M8",
     "registeredAt": "2026-05-18T16:47:50.537Z"
+  },
+  "SKBodhak3": {
+    "firstName": "Shyam",
+    "middleName": "Kumar",
+    "lastName": "Bodhak",
+    "gender": "Male",
+    "dob": "2005-4-12",
+    "password": "133",
+    "token": "NOVA-TOKEN-6FV26",
+    "registeredAt": "2026-05-18T18:11:30.840Z"
   }
 }

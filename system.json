@@ -3,13 +3,7 @@
   "popupSortOrder": "newest",
   "notifications": [],
   "popups": [],
-  "contactButtons": [
-    {
-      "text": "Chat",
-      "url": "#",
-      "iconSvg": "<svg></svg>"
-    }
-  ],
+  "contactButtons": [],
   "actionButtons": {},
   "features": {
     "showSettings": false,

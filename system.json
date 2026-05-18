@@ -1,0 +1,14 @@
+{
+  "notifSortOrder": "newest",
+  "popupSortOrder": "newest",
+  "notifications": [],
+  "popups": [],
+  "contactButtons": [
+    {
+      "text": "Chat",
+      "url": "#",
+      "iconSvg": "<svg></svg>"
+    }
+  ],
+  "actionButtons": {}
+}

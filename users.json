@@ -27,5 +27,15 @@
     "password": "133",
     "token": "NOVA-TOKEN-6FV26",
     "registeredAt": "2026-05-18T18:11:30.840Z"
+  },
+  "Ssss": {
+    "firstName": "Shyam",
+    "middleName": "",
+    "lastName": "Bodhak",
+    "gender": "Male",
+    "dob": "2005",
+    "password": "144",
+    "token": "NOVA-TOKEN-OBZ7U",
+    "registeredAt": "2026-05-19T02:31:10.206Z"
   }
 }

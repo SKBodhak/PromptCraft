@@ -8,7 +8,7 @@
   "features": {
     "showSettings": true,
     "showLegal": true,
-    "showDevProfile": false,
+    "showDevProfile": true,
     "enableDirectMessage": true,
     "enableContactLinks": true
   }

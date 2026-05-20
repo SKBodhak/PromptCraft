@@ -1,11 +1,13 @@
 {
-  "name": "",
-  "handle": "",
-  "badge": "",
-  "avatarType": "",
+  "name": "Shyam",
+  "handle": "SKBodhak",
+  "badge": "INSANE",
+  "avatarType": "text",
   "avatarText": "",
   "avatarImgUrl": "",
   "showQuote": false,
   "quote": "",
-  "skills": []
+  "skills": [],
+  "buttons": [],
+  "socials": []
 }

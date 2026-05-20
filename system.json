@@ -4,12 +4,35 @@
   "notifications": [],
   "popups": [],
   "contactButtons": [],
-  "actionButtons": {},
+  "actionButtons": {
+    "request": "Submit for Approval",
+    "message": "Send Message",
+    "tabPublic": "Public",
+    "tabMessage": "Message"
+  },
   "features": {
     "showSettings": true,
     "showLegal": true,
     "showDevProfile": true,
     "enableDirectMessage": true,
     "enableContactLinks": true
+  },
+  "menuText": {
+    "settings": "HISADIS",
+    "legal": "",
+    "developer": "",
+    "footerHtml": ""
+  },
+  "bottomNavText": {
+    "home": "",
+    "create": "",
+    "library": ""
+  },
+  "toasts": {
+    "copied": "",
+    "saved": "",
+    "removed": "",
+    "created": "",
+    "sent": ""
   }
 }

@@ -6,10 +6,10 @@
   "contactButtons": [],
   "actionButtons": {},
   "features": {
-    "showSettings": false,
-    "showLegal": false,
+    "showSettings": true,
+    "showLegal": true,
     "showDevProfile": false,
-    "enableDirectMessage": false,
-    "enableContactLinks": false
+    "enableDirectMessage": true,
+    "enableContactLinks": true
   }
 }

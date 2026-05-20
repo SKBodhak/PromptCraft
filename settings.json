@@ -8,7 +8,11 @@
     "avatarImgUrl": "https://mooddp.com/wp-content/uploads/2025/12/Anime-boy-dp-for-instagram-aesthetic-anime-boy-artwork.jpg",
     "showQuote": true,
     "quote": "jdshfghajfhashas",
-    "skills": [],
+    "skills": [
+      "html",
+      "css",
+      "js"
+    ],
     "buttons": [
       {
         "text": "New Button",

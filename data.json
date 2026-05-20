@@ -1,3 +1,17 @@
 {
-  "prompts": []
+  "prompts": [
+    {
+      "id": "prompt_491215",
+      "category": "portrait",
+      "images": [
+        "https://images.unsplash.com/photo-1668293750324-bd77c1f08ca9?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1528360983277-13d401cdc186?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1667223068224-30832518fef4?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "likes": "0",
+      "text": "A warm amber afternoon light is already falling across the old cobblestone lane when he steps into frame — a young Indian man whose face is kept exactly true to the uploaded reference, every feature untouched, the eyes, the jawline, the beard shape, the skin tone, all preserved exactly as they are. He is wearing a dark forest green oversized co-ord set sourced from a premium Amazon streetwear brand, the relaxed wide-leg trousers sitting low on his waist and the boxy short-sleeve shirt worn open over a fitted black crew-neck underneath. His posture is classic Pinterest — weight shifted to one leg, left hand resting lightly in his pocket, chin tilted slightly down, eyes looking directly and calmly into the camera. Brown chunky-sole leather sneakers, a stainless steel chain bracelet on his right wrist, and a tinted rectangle sunglasses hooked into the collar add the finishing detail. The background is a slightly blurred old-city lane with warm ochre walls and a parked vintage scooter catching the evening light, captured on a Canon EOS R6 at 85mm f/1.6 with the background melting into a painterly warm bokeh while his face holds razor-sharp detail in the foreground. Color grading is warm amber and deep mocha, cinematic and editorial. Aspect ratio 3:4 vertical. Clean high-fashion editorial energy, classy and platform-safe styling throughout, natural beauty, warm cinematic lighting, magazine-grade visual finish. Add “auraprompt.in” as a small watermark at the bottom-left corner, Petit Formal Script font, thin elegant cursive strokes, soft white color rgba(FFFFFF), 1px letter-spacing, subtle premium handwritten signature style, slight transparency, minimal and refined, no background on text, blends naturally into the image.",
+      "author": "Admin",
+      "submittedAt": "2026-05-20T07:24:02.128Z"
+    }
+  ]
 }

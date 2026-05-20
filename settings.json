@@ -1,1 +1,19 @@
-{}
+{
+  "developer": {
+    "name": "",
+    "handle": "",
+    "badge": "",
+    "avatarType": "",
+    "avatarText": "",
+    "avatarImgUrl": "",
+    "showQuote": false,
+    "quote": "",
+    "skills": []
+  },
+  "legal": {
+    "tosTitle": "",
+    "tosText": "",
+    "privacyTitle": "",
+    "privacyText": ""
+  }
+}

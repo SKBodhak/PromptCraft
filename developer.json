@@ -3,11 +3,28 @@
   "handle": "SKBodhak",
   "badge": "INSANE",
   "avatarType": "text",
-  "avatarText": "",
+  "avatarText": "OKO",
   "avatarImgUrl": "",
   "showQuote": false,
   "quote": "",
   "skills": [],
-  "buttons": [],
-  "socials": []
+  "buttons": [
+    {
+      "text": "New Button",
+      "style": "outline",
+      "url": "#"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Platform",
+      "url": "#",
+      "iconSvg": "<svg></svg>"
+    },
+    {
+      "name": "Platform",
+      "url": "#",
+      "iconSvg": "<svg></svg>"
+    }
+  ]
 }

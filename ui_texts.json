@@ -1,0 +1,19 @@
+{
+  "menuText": {
+    "settings": "HISADIS",
+    "legal": "",
+    "developer": "",
+    "footerHtml": ""
+  },
+  "bottomNavText": {
+    "home": "",
+    "create": "",
+    "library": ""
+  },
+  "actionButtons": {
+    "request": "Submit for Approval",
+    "message": "Send Message",
+    "tabPublic": "Public",
+    "tabMessage": "Message"
+  }
+}
